@@ -24,4 +24,9 @@ This is a simple web app built with **Streamlit** that detects whether a news ar
 ---
 
 ## 📂 Project Structure
-
+├── app.py # Streamlit app
+├── model/
+│ ├── fake_news_model.pkl # Trained ML model
+│ └── vectorizer.pkl # TF-IDF vectorizer
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
