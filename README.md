@@ -31,4 +31,3 @@ fake-news-detector/
 │   └── vectorizer.pkl         # TF-IDF vectorizer
 ├── requirements.txt           # Python dependencies
 └── README.md                  # Project documentation
-
