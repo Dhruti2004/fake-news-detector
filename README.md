@@ -38,16 +38,16 @@ This is a simple web app built with **Streamlit** that detects whether a news ar
 ## 📷 Screenshots
 
 ### 🏠 Home Page
-<img width="1197" height="450" alt="Home" src="https://github.com/user-attachments/assets/c65bbd17-9541-4ddf-82a7-2d9acacef425" />
+<img width="119" height="250" alt="Home" src="https://github.com/user-attachments/assets/c65bbd17-9541-4ddf-82a7-2d9acacef425" />
 
 ### 🔍 Single Prediction
-<img width="1319" height="604" alt="Single_prediction" src="https://github.com/user-attachments/assets/4619e278-e395-4ccf-8d70-8c87ef13ff19" />
+<img width="119" height="250" alt="Single_prediction" src="https://github.com/user-attachments/assets/4619e278-e395-4ccf-8d70-8c87ef13ff19" />
 
 ### ☁ Word Cloud
-<img width="1102" height="623" alt="wordcloud" src="https://github.com/user-attachments/assets/31da86d6-b5ba-4078-bc63-09a319d0102c" />
+<img width="119" height="250" alt="wordcloud" src="https://github.com/user-attachments/assets/31da86d6-b5ba-4078-bc63-09a319d0102c" />
 
 ### 📂 CSV Evaluation
-<img width="1242" height="789" alt="evaluation" src="https://github.com/user-attachments/assets/9d1488ee-6c07-4182-89e3-8808b356fb7c" />
+<img width="119" height="250" alt="evaluation" src="https://github.com/user-attachments/assets/9d1488ee-6c07-4182-89e3-8808b356fb7c" />
 
 ---
 
