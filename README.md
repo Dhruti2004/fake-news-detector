@@ -17,6 +17,14 @@ This is a simple web app built with **Streamlit** that detects whether a news ar
 
 ✔️ Show confidence score for predictions.
 
+✔️ Generate a Word Cloud of the entered headline
+
+✔️ Upload a CSV file (Title, Label) for bulk evaluation
+
+✔️ Display Accuracy, Precision, Recall, and F1-Score
+
+✔️ Export predictions into a CSV file
+
 ---
 
 ## 🧠 How It Works
