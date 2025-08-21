@@ -14,6 +14,7 @@ This is a simple web app built with **Streamlit** that detects whether a news ar
 ## 🚀 Features
 
 ✔️ Predict if a single news headline is REAL or FAKE.
+
 ✔️ Show confidence score for predictions.
 
 ---
