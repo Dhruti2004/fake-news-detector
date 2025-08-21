@@ -47,7 +47,7 @@ This is a simple web app built with **Streamlit** that detects whether a news ar
 <img width="1190" height="350" alt="wordcloud" src="https://github.com/user-attachments/assets/31da86d6-b5ba-4078-bc63-09a319d0102c" />
 
 ### 📂 CSV Evaluation
-<img width="1190" height="350" alt="evaluation" src="https://github.com/user-attachments/assets/9d1488ee-6c07-4182-89e3-8808b356fb7c" />
+<img width="1190" height="370" alt="evaluation" src="https://github.com/user-attachments/assets/9d1488ee-6c07-4182-89e3-8808b356fb7c" />
 
 ---
 
