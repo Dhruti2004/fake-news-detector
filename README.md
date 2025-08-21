@@ -15,10 +15,6 @@ This is a simple web app built with **Streamlit** that detects whether a news ar
 
 ✔️ Predict if a single news headline is REAL or FAKE.
 ✔️ Show confidence score for predictions.
-✔️ Generate a Word Cloud of the entered headline.
-✔️ Upload a CSV file (Title, Label) for bulk evaluation.
-✔️ Display Accuracy, Precision, Recall, and F1-Score.
-✔️ Export predictions into a CSV file.
 
 ---
 
